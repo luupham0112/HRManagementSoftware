@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
